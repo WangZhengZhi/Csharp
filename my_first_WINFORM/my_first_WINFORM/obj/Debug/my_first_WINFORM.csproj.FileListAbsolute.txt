@@ -1,0 +1,10 @@
+c:\users\apple\documents\visual studio 2015\Projects\my_first_WINFORM\my_first_WINFORM\bin\Debug\my_first_WINFORM.exe.config
+c:\users\apple\documents\visual studio 2015\Projects\my_first_WINFORM\my_first_WINFORM\obj\Debug\my_first_WINFORM.csprojResolveAssemblyReference.cache
+c:\users\apple\documents\visual studio 2015\Projects\my_first_WINFORM\my_first_WINFORM\obj\Debug\my_first_WINFORM.my.resources
+c:\users\apple\documents\visual studio 2015\Projects\my_first_WINFORM\my_first_WINFORM\obj\Debug\my_first_WINFORM.Properties.Resources.resources
+c:\users\apple\documents\visual studio 2015\Projects\my_first_WINFORM\my_first_WINFORM\obj\Debug\my_first_WINFORM.csproj.GenerateResource.Cache
+c:\users\apple\documents\visual studio 2015\Projects\my_first_WINFORM\my_first_WINFORM\bin\Debug\my_first_WINFORM.exe
+c:\users\apple\documents\visual studio 2015\Projects\my_first_WINFORM\my_first_WINFORM\bin\Debug\my_first_WINFORM.pdb
+c:\users\apple\documents\visual studio 2015\Projects\my_first_WINFORM\my_first_WINFORM\obj\Debug\my_first_WINFORM.exe
+c:\users\apple\documents\visual studio 2015\Projects\my_first_WINFORM\my_first_WINFORM\obj\Debug\my_first_WINFORM.pdb
+c:\users\apple\documents\visual studio 2015\Projects\my_first_WINFORM\my_first_WINFORM\obj\Debug\my_first_WINFORM.Form2.resources

@@ -1,0 +1,8 @@
+c:\users\apple\documents\visual studio 2015\Projects\my_first_WINFORM\form2\bin\Debug\form2.exe.config
+c:\users\apple\documents\visual studio 2015\Projects\my_first_WINFORM\form2\bin\Debug\form2.exe
+c:\users\apple\documents\visual studio 2015\Projects\my_first_WINFORM\form2\bin\Debug\form2.pdb
+c:\users\apple\documents\visual studio 2015\Projects\my_first_WINFORM\form2\obj\Debug\form2.Form1.resources
+c:\users\apple\documents\visual studio 2015\Projects\my_first_WINFORM\form2\obj\Debug\form2.Properties.Resources.resources
+c:\users\apple\documents\visual studio 2015\Projects\my_first_WINFORM\form2\obj\Debug\form2.csproj.GenerateResource.Cache
+c:\users\apple\documents\visual studio 2015\Projects\my_first_WINFORM\form2\obj\Debug\form2.exe
+c:\users\apple\documents\visual studio 2015\Projects\my_first_WINFORM\form2\obj\Debug\form2.pdb
