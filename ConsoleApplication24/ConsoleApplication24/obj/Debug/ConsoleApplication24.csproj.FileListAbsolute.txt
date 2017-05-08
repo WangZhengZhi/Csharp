@@ -1,0 +1,5 @@
+/Users/wanghoujiangxiang/RiderProjects/ConsoleApplication24/ConsoleApplication24/bin/Debug/ConsoleApplication24.exe
+/Users/wanghoujiangxiang/RiderProjects/ConsoleApplication24/ConsoleApplication24/bin/Debug/ConsoleApplication24.exe.mdb
+/Users/wanghoujiangxiang/RiderProjects/ConsoleApplication24/ConsoleApplication24/obj/Debug/ConsoleApplication24.csprojResolveAssemblyReference.cache
+/Users/wanghoujiangxiang/RiderProjects/ConsoleApplication24/ConsoleApplication24/obj/Debug/ConsoleApplication24.exe
+/Users/wanghoujiangxiang/RiderProjects/ConsoleApplication24/ConsoleApplication24/obj/Debug/ConsoleApplication24.exe.mdb

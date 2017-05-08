@@ -1,0 +1,5 @@
+/Users/wanghoujiangxiang/RiderProjects/ConsoleApplication21/ConsoleApplication21/bin/Debug/ConsoleApplication21.exe
+/Users/wanghoujiangxiang/RiderProjects/ConsoleApplication21/ConsoleApplication21/bin/Debug/ConsoleApplication21.exe.mdb
+/Users/wanghoujiangxiang/RiderProjects/ConsoleApplication21/ConsoleApplication21/obj/Debug/ConsoleApplication21.csprojResolveAssemblyReference.cache
+/Users/wanghoujiangxiang/RiderProjects/ConsoleApplication21/ConsoleApplication21/obj/Debug/ConsoleApplication21.exe
+/Users/wanghoujiangxiang/RiderProjects/ConsoleApplication21/ConsoleApplication21/obj/Debug/ConsoleApplication21.exe.mdb
