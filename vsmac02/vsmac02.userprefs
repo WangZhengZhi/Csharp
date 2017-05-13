@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{78A795D8-24C1-47A9-8421-8EE962AAFAF5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="vsmac02/Program.cs">
+    <Files>
+      <File FileName="vsmac02/Program.cs" Line="5" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.vsmac02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

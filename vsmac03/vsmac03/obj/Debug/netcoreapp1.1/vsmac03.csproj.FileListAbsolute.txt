@@ -1,0 +1,10 @@
+/Users/wanghoujiangxiang/Projects/vsmac03/vsmac03/bin/Debug/netcoreapp1.1/vsmac03.deps.json
+/Users/wanghoujiangxiang/Projects/vsmac03/vsmac03/bin/Debug/netcoreapp1.1/vsmac03.runtimeconfig.json
+/Users/wanghoujiangxiang/Projects/vsmac03/vsmac03/bin/Debug/netcoreapp1.1/vsmac03.runtimeconfig.dev.json
+/Users/wanghoujiangxiang/Projects/vsmac03/vsmac03/bin/Debug/netcoreapp1.1/vsmac03.dll
+/Users/wanghoujiangxiang/Projects/vsmac03/vsmac03/bin/Debug/netcoreapp1.1/vsmac03.pdb
+/Users/wanghoujiangxiang/Projects/vsmac03/vsmac03/obj/Debug/netcoreapp1.1/vsmac03.csprojResolveAssemblyReference.cache
+/Users/wanghoujiangxiang/Projects/vsmac03/vsmac03/obj/Debug/netcoreapp1.1/vsmac03.csproj.CoreCompileInputs.cache
+/Users/wanghoujiangxiang/Projects/vsmac03/vsmac03/obj/Debug/netcoreapp1.1/vsmac03.AssemblyInfo.cs
+/Users/wanghoujiangxiang/Projects/vsmac03/vsmac03/obj/Debug/netcoreapp1.1/vsmac03.dll
+/Users/wanghoujiangxiang/Projects/vsmac03/vsmac03/obj/Debug/netcoreapp1.1/vsmac03.pdb
