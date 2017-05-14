@@ -1,0 +1,4 @@
+SayHello.MainActivity, SayHello;md5c928af3c3dcd1a840429adbfc3563e01.MainActivity
+SayHello.MainActivity, SayHello, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c928af3c3dcd1a840429adbfc3563e01.MainActivity
+SayHello.MainActivity;md5c928af3c3dcd1a840429adbfc3563e01.MainActivity
+sayhello.MainActivity;md5c928af3c3dcd1a840429adbfc3563e01.MainActivity

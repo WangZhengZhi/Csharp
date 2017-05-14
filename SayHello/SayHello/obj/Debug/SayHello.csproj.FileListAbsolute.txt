@@ -1,0 +1,17 @@
+/Users/wanghoujiangxiang/Projects/SayHello/SayHello/bin/Debug/SayHello.dll
+/Users/wanghoujiangxiang/Projects/SayHello/SayHello/bin/Debug/SayHello.pdb
+/Users/wanghoujiangxiang/Projects/SayHello/SayHello/bin/Debug/com.zhengzhi_inc.sayhello.apk
+/Users/wanghoujiangxiang/Projects/SayHello/SayHello/bin/Debug/com.zhengzhi_inc.sayhello-Signed.apk
+/Users/wanghoujiangxiang/Projects/SayHello/SayHello/obj/Debug/SayHello.csproj.CoreCompileInputs.cache
+/Users/wanghoujiangxiang/Projects/SayHello/SayHello/obj/Debug/SayHello.dll
+/Users/wanghoujiangxiang/Projects/SayHello/SayHello/obj/Debug/SayHello.pdb
+/Users/wanghoujiangxiang/Projects/SayHello/SayHello/obj/Debug/android/bin/com.zhengzhi_inc.sayhello.apk
+/Users/wanghoujiangxiang/Projects/SayHello/SayHello/obj/Debug/res/layout/main.xml
+/Users/wanghoujiangxiang/Projects/SayHello/SayHello/obj/Debug/res/values/strings.xml
+/Users/wanghoujiangxiang/Projects/SayHello/SayHello/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/wanghoujiangxiang/Projects/SayHello/SayHello/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/wanghoujiangxiang/Projects/SayHello/SayHello/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/wanghoujiangxiang/Projects/SayHello/SayHello/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/wanghoujiangxiang/Projects/SayHello/SayHello/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/wanghoujiangxiang/Projects/SayHello/SayHello/obj/Debug/R.cs.flag
+/Users/wanghoujiangxiang/Projects/SayHello/SayHello/obj/Debug/uploadflags.txt

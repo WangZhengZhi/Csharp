@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{2DF0D914-FB97-4C21-AEE3-A0E8015D991F}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="SayHello/MainActivity.cs" Line="25" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SayHello" expanded="True">
+            <Node name="SayHello" expanded="True" selected="True">
+              <Node name="References" expanded="True" />
+              <Node name="Assets" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SayHello AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" AndroidDesignerPreferredTheme="Theme.Holo.Light" />
+</Properties>
